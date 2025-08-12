@@ -1,0 +1,48 @@
+{
+  "source": "/Users/ribragimov/Downloads/HP Trivia/HP Trivia/GamePlay.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Score: %lld",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 50
+        }
+      },
+      {
+        "comment": "",
+        "key": "End Game",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 41
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 235
+        }
+      },
+      {
+        "comment": "",
+        "key": "Brilliant!",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 254
+        }
+      },
+      {
+        "comment": "",
+        "key": "Next Level>",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 282
+        }
+      }
+    ]
+  },
+  "version": 1
+}

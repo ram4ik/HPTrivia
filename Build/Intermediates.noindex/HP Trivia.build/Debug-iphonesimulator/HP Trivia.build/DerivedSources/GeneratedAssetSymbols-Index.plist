@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colors</key>
+	<array/>
+	<key>images</key>
+	<array>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/ribragimov/Downloads/HP Trivia/HP Trivia/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameAppiconwithradius</string>
+			<key>relativePath</key>
+			<string>./appiconwithradius.imageset</string>
+			<key>swiftSymbol</key>
+			<string>appiconwithradius</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/ribragimov/Downloads/HP Trivia/HP Trivia/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameHogwarts</string>
+			<key>relativePath</key>
+			<string>./hogwarts.imageset</string>
+			<key>swiftSymbol</key>
+			<string>hogwarts</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/ribragimov/Downloads/HP Trivia/HP Trivia/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameHp1</string>
+			<key>relativePath</key>
+			<string>./hp1.imageset</string>
+			<key>swiftSymbol</key>
+			<string>hp1</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/ribragimov/Downloads/HP Trivia/HP Trivia/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameHp2</string>
+			<key>relativePath</key>
+			<string>./hp2.imageset</string>
+			<key>swiftSymbol</key>
+			<string>hp2</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/ribragimov/Downloads/HP Trivia/HP Trivia/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameHp3</string>
+			<key>relativePath</key>
+			<string>./hp3.imageset</string>
+			<key>swiftSymbol</key>
+			<string>hp3</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/ribragimov/Downloads/HP Trivia/HP Trivia/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameHp4</string>
+			<key>relativePath</key>
+			<string>./hp4.imageset</string>
+			<key>swiftSymbol</key>
+			<string>hp4</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/ribragimov/Downloads/HP Trivia/HP Trivia/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameHp5</string>
+			<key>relativePath</key>
+			<string>./hp5.imageset</string>
+			<key>swiftSymbol</key>
+			<string>hp5</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/ribragimov/Downloads/HP Trivia/HP Trivia/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameHp6</string>
+			<key>relativePath</key>
+			<string>./hp6.imageset</string>
+			<key>swiftSymbol</key>
+			<string>hp6</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/ribragimov/Downloads/HP Trivia/HP Trivia/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameHp7</string>
+			<key>relativePath</key>
+			<string>./hp7.imageset</string>
+			<key>swiftSymbol</key>
+			<string>hp7</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/ribragimov/Downloads/HP Trivia/HP Trivia/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameParchment</string>
+			<key>relativePath</key>
+			<string>./parchment.imageset</string>
+			<key>swiftSymbol</key>
+			<string>parchment</string>
+		</dict>
+	</array>
+	<key>symbols</key>
+	<array/>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+{
+  "source": "/Users/ribragimov/Downloads/HP Trivia/HP Trivia/Settings.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Which books would you like to see questions from?",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 19
+        }
+      },
+      {
+        "comment": "",
+        "key": "Done",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 95
+        }
+      }
+    ]
+  },
+  "version": 1
+}

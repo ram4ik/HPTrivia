@@ -1,0 +1,72 @@
+{
+  "source": "/Users/ribragimov/Downloads/HP Trivia/HP Trivia/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "HP",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 45
+        }
+      },
+      {
+        "comment": "",
+        "key": "Trivia",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 49
+        }
+      },
+      {
+        "comment": "",
+        "key": "Recent Scores:",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 64
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 67
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 68
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 69
+        }
+      },
+      {
+        "comment": "",
+        "key": "Play",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 113
+        }
+      },
+      {
+        "comment": "",
+        "key": "No questions available. Go to settings!",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 172
+        }
+      }
+    ]
+  },
+  "version": 1
+}

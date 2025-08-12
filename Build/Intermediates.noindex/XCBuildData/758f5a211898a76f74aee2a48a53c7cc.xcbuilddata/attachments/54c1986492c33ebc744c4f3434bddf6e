@@ -1,0 +1,108 @@
+{
+  "" : {
+    "diagnostics" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/HP Trivia-master.dia",
+    "emit-module-dependencies" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/HP Trivia-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/HP Trivia-master-emit-module.dia",
+    "swift-dependencies" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/HP Trivia-master.swiftdeps"
+  },
+  "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/ribragimov/Downloads/HP Trivia/HP Trivia/Constants.swift" : {
+    "const-values" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/Constants.swiftconstvalues",
+    "dependencies" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/Constants.d",
+    "diagnostics" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/Constants.dia",
+    "index-unit-output-path" : "/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/Constants.o",
+    "llvm-bc" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/Constants.bc",
+    "object" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/Constants.o",
+    "swift-dependencies" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/Constants.swiftdeps",
+    "swiftmodule" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/Constants~partial.swiftmodule"
+  },
+  "/Users/ribragimov/Downloads/HP Trivia/HP Trivia/ContentView.swift" : {
+    "const-values" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/ribragimov/Downloads/HP Trivia/HP Trivia/Game.swift" : {
+    "const-values" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/Game.swiftconstvalues",
+    "dependencies" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/Game.d",
+    "diagnostics" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/Game.dia",
+    "index-unit-output-path" : "/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/Game.o",
+    "llvm-bc" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/Game.bc",
+    "object" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/Game.o",
+    "swift-dependencies" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/Game.swiftdeps",
+    "swiftmodule" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/Game~partial.swiftmodule"
+  },
+  "/Users/ribragimov/Downloads/HP Trivia/HP Trivia/GamePlay.swift" : {
+    "const-values" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/GamePlay.swiftconstvalues",
+    "dependencies" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/GamePlay.d",
+    "diagnostics" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/GamePlay.dia",
+    "index-unit-output-path" : "/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/GamePlay.o",
+    "llvm-bc" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/GamePlay.bc",
+    "object" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/GamePlay.o",
+    "swift-dependencies" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/GamePlay.swiftdeps",
+    "swiftmodule" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/GamePlay~partial.swiftmodule"
+  },
+  "/Users/ribragimov/Downloads/HP Trivia/HP Trivia/HP_TriviaApp.swift" : {
+    "const-values" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/HP_TriviaApp.swiftconstvalues",
+    "dependencies" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/HP_TriviaApp.d",
+    "diagnostics" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/HP_TriviaApp.dia",
+    "index-unit-output-path" : "/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/HP_TriviaApp.o",
+    "llvm-bc" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/HP_TriviaApp.bc",
+    "object" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/HP_TriviaApp.o",
+    "swift-dependencies" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/HP_TriviaApp.swiftdeps",
+    "swiftmodule" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/HP_TriviaApp~partial.swiftmodule"
+  },
+  "/Users/ribragimov/Downloads/HP Trivia/HP Trivia/Instructions.swift" : {
+    "const-values" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/Instructions.swiftconstvalues",
+    "dependencies" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/Instructions.d",
+    "diagnostics" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/Instructions.dia",
+    "index-unit-output-path" : "/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/Instructions.o",
+    "llvm-bc" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/Instructions.bc",
+    "object" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/Instructions.o",
+    "swift-dependencies" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/Instructions.swiftdeps",
+    "swiftmodule" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/Instructions~partial.swiftmodule"
+  },
+  "/Users/ribragimov/Downloads/HP Trivia/HP Trivia/Question.swift" : {
+    "const-values" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/Question.swiftconstvalues",
+    "dependencies" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/Question.d",
+    "diagnostics" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/Question.dia",
+    "index-unit-output-path" : "/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/Question.o",
+    "llvm-bc" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/Question.bc",
+    "object" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/Question.o",
+    "swift-dependencies" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/Question.swiftdeps",
+    "swiftmodule" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/Question~partial.swiftmodule"
+  },
+  "/Users/ribragimov/Downloads/HP Trivia/HP Trivia/Settings.swift" : {
+    "const-values" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/Settings.swiftconstvalues",
+    "dependencies" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/Settings.d",
+    "diagnostics" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/Settings.dia",
+    "index-unit-output-path" : "/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/Settings.o",
+    "llvm-bc" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/Settings.bc",
+    "object" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/Settings.o",
+    "swift-dependencies" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/Settings.swiftdeps",
+    "swiftmodule" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/Settings~partial.swiftmodule"
+  },
+  "/Users/ribragimov/Downloads/HP Trivia/HP Trivia/Store.swift" : {
+    "const-values" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/Store.swiftconstvalues",
+    "dependencies" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/Store.d",
+    "diagnostics" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/Store.dia",
+    "index-unit-output-path" : "/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/Store.o",
+    "llvm-bc" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/Store.bc",
+    "object" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/Store.o",
+    "swift-dependencies" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/Store.swiftdeps",
+    "swiftmodule" : "/Users/ribragimov/Downloads/HP Trivia/Build/Intermediates.noindex/HP Trivia.build/Debug-iphonesimulator/HP Trivia.build/Objects-normal/arm64/Store~partial.swiftmodule"
+  }
+}
